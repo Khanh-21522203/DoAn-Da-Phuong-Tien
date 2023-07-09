@@ -93,4 +93,3 @@ def convertSamplesToAudio(samples, filename):
         for sample in samples:
             # Convert audio sample to bytes
             wav_file.writeframes(struct.pack('<h', sample))
-    print(f"Đã tạo tệp {filename} thành công.")
