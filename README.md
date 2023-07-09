@@ -26,3 +26,14 @@
 ## ĐỒ ÁN CUỐI KÌ
 
 -   **Tên đề tài**: Tìm hiểu về ba thuật toán nén âm thanh PCM, DPCM và ADPCM.
+
+## DEMO
+-   **DPCM**:
+
+<img width="804" alt="image" src="https://github.com/Khanh-21522203/DoAn-Da-Phuong-Tien/assets/131854924/33febc0e-3d65-41a8-a18f-c08c80502086">
+
+-   **ADPCM**:
+  
+<img width="808" alt="image" src="https://github.com/Khanh-21522203/DoAn-Da-Phuong-Tien/assets/131854924/e5b90c5a-aeef-44c0-9312-7411f0d04b7f">
+
+
